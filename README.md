@@ -9,18 +9,18 @@ AeroPy is a way for users to control their computers through hand gestures.
 USAGE
 
 RIGHT HAND
-    CURSOR
+   CURSOR
     At any given moment that your right hand is in view of your webcam, your index finger controls your cursor. Move 
     your hand and your cursor moves accordingly. 
     
-    LEFT AND RIGHT CLICK
+   LEFT AND RIGHT CLICK
     Pinch your middle finger and thumb together to left click and your pinky and thumb together to right click. 
     
-    SPEAK TO TYPE
+   SPEAK TO TYPE
     Pinch your ring finger and thumb together and then speak (you must have an audio input source). Once you are done speaking 
     what you have said will be typed out where your cursor is placed. 
 
-    SWITCH TABS
+   SWITCH TABS
     swipe right with your right hand as far right as possible until your tab switches
 
 

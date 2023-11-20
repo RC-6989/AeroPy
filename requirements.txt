@@ -7,3 +7,5 @@ comtypes
 pycaw
 speechrecognition
 pyaudio
+win32api
+pyautogui
